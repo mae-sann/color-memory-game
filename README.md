@@ -1,21 +1,21 @@
-🎨 Color Memory Game
+# 🎨 Color Memory Game  
 
-A simple memory card game built with React.
-Test your memory by flipping cards and matching pairs!
+A simple memory card game built with **React**.  
+Test your memory by flipping cards and matching pairs!  
 
-🚀 Live Demo
+---
 
-Play it here:
-👉 https://mae-sann.github.io/color-memory-game/
+## 🚀 Live Demo  
+👉 [Play it here](https://mae-sann.github.io/color-memory-game/)  
 
-🕹️ How to Play
+---
 
-Click a card to flip it.
+## 🕹️ How to Play  
 
-Try to find the matching color card.
+1. Click a card to flip it.  
+2. Try to find the matching color card.  
+3. If two flipped cards match, they stay open.  
+4. If they don’t match, they will flip back down.  
+5. Keep playing until all pairs are matched 🎉  
 
-If two flipped cards match, they stay open.
-
-If they don’t match, they will flip back down.
-
-Keep playing until all pairs are matched 🎉
+---
