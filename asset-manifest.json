@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-memory-game/static/css/main.e6c13ad2.css",
+    "main.js": "/color-memory-game/static/js/main.e02b8627.js",
+    "static/js/453.8d328d39.chunk.js": "/color-memory-game/static/js/453.8d328d39.chunk.js",
+    "index.html": "/color-memory-game/index.html",
+    "main.e6c13ad2.css.map": "/color-memory-game/static/css/main.e6c13ad2.css.map",
+    "main.e02b8627.js.map": "/color-memory-game/static/js/main.e02b8627.js.map",
+    "453.8d328d39.chunk.js.map": "/color-memory-game/static/js/453.8d328d39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e02b8627.js"
+  ]
+}
